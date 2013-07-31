@@ -1,0 +1,77 @@
+body {
+    line-height: 1;
+	top: 1px;
+	min-width: 100%;
+	background: rgb(215, 215, 215);
+	background: -webkit-gradient(radial, 50% 50%, 50%, 50% 50%, 500, from(rgb(36, 36, 36)), to(rgb(102, 102, 102)));
+	background: -webkit-radial-gradient(rgb(36, 36, 36), rgb(102, 102, 102));
+	background:    -moz-radial-gradient(rgb(36, 36, 36), rgb(102, 102, 102));
+	background:     -ms-radial-gradient(rgb(36, 36, 36), rgb(102, 102, 102));
+	background:      -o-radial-gradient(rgb(36, 36, 36), rgb(102, 102, 102));
+	background-color: #FFF;
+	top: 17%;
+	bottom: 7%;
+    padding-top:2px;
+	padding-bottom:20px;
+}
+
+ol {
+    list-style: none;
+}
+q {
+    quotes: none;
+}
+q:before, q:after {
+	content: '';
+	content: none;
+	top: 1px;
+}
+
+.step {
+	margin:0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing:    border-box;
+	-ms-box-sizing:     border-box;
+	-o-box-sizing:      border-box;
+	box-sizing:         border-box;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 46px;
+	line-height: 1.5;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #00F;
+	background-image: url(https://dl.dropboxusercontent.com/u/47807983/wavetele.com/images/apple-touch-icon.png);
+	height: 100%;
+	width: 100%;
+}
+
+.slide {
+	display: inline-block;
+	background-color: #FFF;
+	border-radius: 10px;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, .1);
+	color: #FFF;
+	text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
+	font-family: 'PT Sans', sans-serif;
+	font-size: 30px;
+	line-height: 36px;
+	letter-spacing: -1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FF0;
+	border-right-color: #FF0;
+	border-bottom-color: #FF0;
+	border-left-color: #FF0;
+	width: 900px;
+	top: 50%;
+	height: 900px;
+	padding-right: 0px;
+	padding-bottom: 15%;
+	overflow: hidden;
+	left: 1%;
+	right: 1%;
+	bottom: 1%;
+	padding-left: 0px;
+}

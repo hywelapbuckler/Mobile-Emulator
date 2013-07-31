@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-2-20: Created.
+-->
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+<font id="google-glass" horiz-adv-x="1030" >
+  <font-face 
+    font-family="google-glass"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 6 3 0 0 0 0 0 0"
+    ascent="800"
+    descent="-200"
+    bbox="15 -200 1015 800"
+    underline-thickness="50"
+    underline-position="-100"
+    unicode-range="U+F100-F10F"
+  />
+    <missing-glyph />
+  </font>
+</defs></svg>

@@ -1,0 +1,33 @@
+nav.more {
+	display: block;
+	position: absolute;
+	left: 50%;
+	margin-left: -4px;
+	top: 350px;
+	z-index: 99999;
+	background: url(https://dl.dropboxusercontent.com/u/47807983/wavetele.com/images/icon_more.png) 50% 50% no-repeat;
+	height: 118px;
+	width: 98px;
+}
+.story h1 {
+	font-size: 16px;
+	font-family: "NikeGratton", "Helvetica";
+	font-weight: bold;
+	letter-spacing: 0px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: black;
+	margin: 0 0 2px 0;
+}
+.story header h2 {
+	font-size: 60px;
+	font-weight: bold;
+	letter-spacing: -1px;
+	line-height: 60px;
+	margin: 0 0 0px 0;
+	color: #09C;
+}
+.story header h2 #sp {
+	display:block;
+	height:15px;
+}
